@@ -1,2 +1,2 @@
 # Flux
-Package facilitating workflow for Unity
+Package facilitating workflow for Unity.
